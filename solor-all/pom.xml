@@ -166,7 +166,7 @@
 							<goal>unpack-dependencies</goal>
 						</goals>
 						<configuration>
-							<includeArtifactIds>loinc-src-data</includeArtifactIds>
+							<includeArtifactIds>term-convert-loinc-src-data</includeArtifactIds>
 							<outputDirectory>${project.build.directory}/generated-resources/loinc</outputDirectory>
 						</configuration>
 					</execution>
