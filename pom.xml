@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>gov.vha.isaac</groupId>
-        <artifactId>isaac-parent</artifactId>
+        <artifactId>va-isaac-parent</artifactId>
         <version>1.11-SNAPSHOT</version>
     </parent>
 
@@ -28,7 +28,7 @@
     </properties>
 
     <scm>
-        <url>https://github.com/Apelon-VA/va-solor-goods.git</url>
+        <url>https://github.com/VA-CTT/va-solor-goods.git</url>
     </scm>
     
     <build>
