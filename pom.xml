@@ -8,7 +8,7 @@
     </parent>
 
     <groupId>gov.vha.solor</groupId>
-    <artifactId>solor-goods</artifactId>
+    <artifactId>va-isaac-solor</artifactId>
     <version>1.15-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>solor-goods: (MMP)</name>
@@ -28,7 +28,7 @@
     </properties>
 
     <scm>
-        <url>https://github.com/VA-CTT/va-solor-goods.git</url>
+        <url>https://github.com/VA-CTT/va-isaac-solor.git</url>
     </scm>
     
     <build>
